@@ -1,0 +1,10 @@
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\bin\Release\TestVerticalDisplay.exe.config
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\bin\Release\TestVerticalDisplay.exe
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\bin\Release\TestVerticalDisplay.pdb
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.csproj.AssemblyReference.cache
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.Properties.Resources.resources
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.csproj.GenerateResource.cache
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.exe
+C:\Users\Cristian Pamparau\source\repos\TestVerticalDisplay\TestVerticalDisplay\obj\Release\TestVerticalDisplay.pdb
